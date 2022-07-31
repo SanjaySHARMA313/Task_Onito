@@ -1,0 +1,12 @@
+*{background-color:rgba(233, 251, 252, 0.986);}
+.header{margin:30px 2px 30px 38px;text-decoration: underline;}
+.date,.remark,.amount,.payment{ margin:20px 50px 20px 20px;padding:20px;font-weight: bolder;font-size:large;}
+.button{padding-left: 290px;padding-top: 70px;}
+.cancel{border:1px solid orangered;border-radius: 10px;font-size: medium;background-color: aliceblue;color:orangered;width:100px;height:50px;margin-left: 90px;}
+.submit{background-color: green;font-size:medium;color:white;border:2px solid green;border-radius:10px;width: 100px;height: 50px;margin-left: 70px;}
+.dates{margin-left: 105px; width:200px;height:50px;border-radius: 7px;background-color: white;}
+.amounts{margin-left:78px;width:400px;height:50px;border-radius: 7px;background-color: white;}
+.select{margin-left: 35px; width:200px;height:50px;border-radius: 7px;background-color: white;}
+.remarks{margin-left: 100px; width:400px;height:50px;border-radius: 7px;background-color: white;}
+
+.showDataa{background-color: aqua;padding: 2px;margin: 40px;border:2px solid orangered;margin:20px;}
