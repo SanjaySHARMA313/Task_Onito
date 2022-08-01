@@ -1,12 +1,16 @@
-*{background-color:rgba(233, 251, 252, 0.986);}
-.header{margin:30px 2px 30px 38px;text-decoration: underline;}
-.date,.remark,.amount,.payment{ margin:20px 50px 20px 20px;padding:20px;font-weight: bolder;font-size:large;}
-.button{padding-left: 290px;padding-top: 70px;}
-.cancel{border:1px solid orangered;border-radius: 10px;font-size: medium;background-color: aliceblue;color:orangered;width:100px;height:50px;margin-left: 90px;}
-.submit{background-color: green;font-size:medium;color:white;border:2px solid green;border-radius:10px;width: 100px;height: 50px;margin-left: 70px;}
-.dates{margin-left: 105px; width:200px;height:50px;border-radius: 7px;background-color: white;}
-.amounts{margin-left:78px;width:400px;height:50px;border-radius: 7px;background-color: white;}
-.select{margin-left: 35px; width:200px;height:50px;border-radius: 7px;background-color: white;}
-.remarks{margin-left: 100px; width:400px;height:50px;border-radius: 7px;background-color: white;}
 
-.showDataa{background-color: aqua;padding: 2px;margin: 40px;border:2px solid orangered;margin:20px;}
+.fname{font-size: small;padding: 2px;margin-right: 20px;width:270px;height:40px}
+.lname{font-size: small;padding: 2px;margin-right: 20px;width:270px;height:40px;padding-left:20px}
+.form{background-color: aqua;padding: 20px;margin:20px;}
+.city{font-size: small;padding: 2px;margin:2px 30px 4px 25px;width:270px;height:40px}
+.country{font-size: small;padding: 2px;margin:2px 30px 4px 25px;width:270px;height:40px}
+.fnamee{margin:1px 5px 7px 20px;padding: 7px;}
+
+.lnamee{margin:5px 5px 7px 20px ;padding:7px}
+.cityy{margin:1px 5px 7px 50px;padding: 1px;}
+.countryy{margin:1px 5px 7px 20px;padding: 7px;}
+.table{border:2px solid greenyellow;}
+.tables{border: 1px solid blue;}
+/* .table{border:2px solid yellow;border-radius: 5px;} */
+.submit{background-color:greenyellow;border:2px solid greenyellow;width:100px;height:40px;margin:60px 10px 20px 40px;}
+.add{background-color:greenyellow;border:2px solid greenyellow;width:100px;height:40px;margin:60px 10px 20px 40px;padding:10px 20px 10px 20px}
